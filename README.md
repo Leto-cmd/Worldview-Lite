@@ -23,7 +23,7 @@ A real-time global intelligence dashboard built with Three.js — inspired by [B
 No build step, no npm, no config. Just open the file:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/worldview-light.git
+git clone https://github.com/Leto-cmd/worldview-light.git
 cd worldview-light
 open worldview.html
 ```
