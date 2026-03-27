@@ -20,7 +20,9 @@ A real-time global intelligence dashboard built with Three.js — inspired by [B
 
 ## 🚀 Usage
 
-No build step, no npm, no config. Just open the file:
+No build step, no npm, no config. Just open the file (Or access the Github Pages site):
+
+https://leto-cmd.github.io/Worldview-Lite/
 
 ```bash
 git clone https://github.com/Leto-cmd/worldview-light.git
